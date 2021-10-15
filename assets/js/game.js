@@ -92,8 +92,24 @@ var fight = function (enemy) {
   }
 };
 
+//function to set name
+var getPlayerName = function () {
+  var name = "";
+
+  //***********************************
+  // ADD LOOP HERE WITH PROMPT AND CONDITION
+  while (name === "" || name === null) {
+    name = prompt("What is your robot's name?");
+  }
+  //***********************************
+
+  console.log("Your robot's name is " + name);
+  return name;
+};
+
 var playerInfo = {
-  name: window.prompt("What is your robot's name?"),
+  /* GAME INFORMATION / VARIABLES */
+  name: getPlayerName(),
   health: 100,
   attack: 10,
   money: 10,
