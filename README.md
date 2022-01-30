@@ -13,7 +13,7 @@ This app contains:
 # Quiz Screen Shots
 
 - **Main Screen:**
-  ![Prompts](https://github.com/Ldeguzman9/code-quiz/blob/main/assets/images/quiz%20screen.png?raw=true)
+  ![Prompts](https://github.com/Ldeguzman9/robot-gladiators/blob/main/assets/images/Screenshot%202022-01-29%20at%206.18.16%20PM.png?raw=true)
 
 # Technical Skills
 
