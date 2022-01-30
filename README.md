@@ -1,6 +1,6 @@
 # robot-gladiators
 
-This is a timed quiz to test player knowledge on basic Javascript skills.
+This is an RPG built with javascript.
 
 # You will find:
 
@@ -13,6 +13,7 @@ This app contains:
 # Quiz Screen Shots
 
 - **Main Screen:**
+- 
   ![Prompts](https://github.com/Ldeguzman9/robot-gladiators/blob/main/assets/images/Screenshot%202022-01-29%20at%206.18.16%20PM.png?raw=true)
 
 # Technical Skills
