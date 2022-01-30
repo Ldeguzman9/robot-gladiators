@@ -10,7 +10,7 @@ This app contains:
 2. If/ else javascript
 3. RPG features.
 
-# Quiz Screen Shots
+# Screen Shots
 
 - **Main Screen:**
 - 
